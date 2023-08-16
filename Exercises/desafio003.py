@@ -1,4 +1,4 @@
-#Neste desafio deevo criar um programa que lerá dois números inteiros e mostrará a soma entre eles.
+#Neste desafio devo criar um programa que lerá dois números inteiros e mostrará a soma entre eles.
 #Primeiramente vou criar duas variáveis para solicitar ao usuário e armazenar os números que serão somados
 
 n1 = int(input('Informe um número: '))
